@@ -1,0 +1,41 @@
+<svg width="1600" height="420" viewBox="0 0 1600 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">MD Danish Ali - Build systems that move ideas forward</title>
+  <desc id="desc">A dark technical banner with a network grid, a software engineering student identity, and a cyan and amber accent palette.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1600" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.58" stop-color="#0B1D2A"/>
+      <stop offset="1" stop-color="#132A33"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="180" y1="50" x2="1280" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#F59E0B" stop-opacity="0.04"/>
+    </linearGradient>
+    <pattern id="grid" width="46" height="46" patternUnits="userSpaceOnUse">
+      <path d="M46 0H0V46" stroke="#7DD3FC" stroke-opacity="0.08"/>
+    </pattern>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1600" height="420" rx="18" fill="url(#background)"/>
+  <rect width="1600" height="420" rx="18" fill="url(#grid)"/>
+  <path d="M0 330C250 250 365 370 625 280C905 184 1080 328 1600 108V420H0V330Z" fill="url(#glow)"/>
+  <g stroke="#67E8F9" stroke-opacity="0.3" stroke-width="1.5">
+    <path d="M1100 54L1240 128L1386 70L1510 154L1430 286L1264 246L1100 334L950 252L1005 116L1100 54Z"/>
+    <path d="M1100 54L1264 246M1240 128L1430 286M1386 70L1264 246M1005 116L1240 128M950 252L1264 246M1100 334L1430 286"/>
+  </g>
+  <g fill="#67E8F9" filter="url(#softGlow)">
+    <circle cx="1100" cy="54" r="4"/><circle cx="1240" cy="128" r="4"/><circle cx="1386" cy="70" r="4"/>
+    <circle cx="1510" cy="154" r="4"/><circle cx="1430" cy="286" r="4"/><circle cx="1264" cy="246" r="4"/>
+    <circle cx="1100" cy="334" r="4"/><circle cx="950" cy="252" r="4"/><circle cx="1005" cy="116" r="4"/>
+  </g>
+  <rect x="94" y="82" width="62" height="5" rx="2.5" fill="#F59E0B"/>
+  <text x="94" y="148" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" letter-spacing="3">MD DANISH ALI</text>
+  <text x="98" y="194" fill="#A5F3FC" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="2">SOFTWARE ENGINEERING STUDENT  /  BUILDER</text>
+  <text x="98" y="254" fill="#E2E8F0" font-family="Arial, Helvetica, sans-serif" font-size="25">Turning ambitious ideas into working systems.</text>
+  <text x="98" y="310" fill="#7DD3FC" font-family="Consolas, monospace" font-size="16">AI  +  WEB3  +  FULL-STACK  +  AUTOMATION</text>
+  <path d="M98 348H522" stroke="#F59E0B" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="548" cy="348" r="4" fill="#22D3EE"/>
+</svg>

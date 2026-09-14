@@ -1,0 +1,58 @@
+<svg width="360" height="240" viewBox="0 0 360 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Phoenix signature mark</title>
+  <desc id="desc">A minimal cyan and amber phoenix made from geometric wings, rising particles, and a soft animated glow.</desc>
+  <defs>
+    <linearGradient id="wing" x1="66" y1="66" x2="300" y2="188" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#67E8F9"/>
+      <stop offset="0.62" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+    <linearGradient id="body" x1="180" y1="66" x2="180" y2="205" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FDE68A"/>
+      <stop offset="0.45" stop-color="#F59E0B"/>
+      <stop offset="1" stop-color="#EA580C"/>
+    </linearGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="smallGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <g opacity="0.9" filter="url(#smallGlow)" fill="#67E8F9">
+    <circle cx="95" cy="62" r="2"><animate attributeName="cy" values="62;38;62" dur="4.8s" repeatCount="indefinite"/></circle>
+    <circle cx="275" cy="78" r="2"><animate attributeName="cy" values="78;49;78" dur="5.6s" begin="1s" repeatCount="indefinite"/></circle>
+    <circle cx="72" cy="132" r="1.5"><animate attributeName="cy" values="132;103;132" dur="4.2s" begin="2s" repeatCount="indefinite"/></circle>
+    <circle cx="296" cy="142" r="1.5"><animate attributeName="cy" values="142;111;142" dur="5.2s" begin="0.5s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <g filter="url(#glow)" transform="translate(0 5)">
+    <animateTransform attributeName="transform" type="translate" values="0 5;0 -3;0 5" dur="5s" repeatCount="indefinite"/>
+
+    <g fill="url(#wing)" transform="translate(180 125)">
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="-2;4;-2" dur="4.6s" repeatCount="indefinite"/>
+        <path d="M-12 -38C-48 -72-92 -80-136 -64C-102 -42-82 -15-66 14C-99 1-123 5-148 22C-106 36-72 58-43 84C-26 66-14 45-12 21L-54 40C-36 14-22-8-12-38Z"/>
+      </g>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="2;-4;2" dur="4.6s" repeatCount="indefinite"/>
+        <path d="M12 -38C48 -72 92 -80 136 -64C102 -42 82 -15 66 14C99 1 123 5 148 22C106 36 72 58 43 84C26 66 14 45 12 21L54 40C36 14 22-8 12-38Z"/>
+      </g>
+    </g>
+
+    <path d="M180 58L168 82L180 76L192 82L180 58Z" fill="url(#body)"/>
+    <path d="M180 70C161 92 158 126 166 151C170 165 164 185 151 208C167 199 176 191 180 177C184 191 193 199 209 208C196 185 190 165 194 151C202 126 199 92 180 70Z" fill="url(#body)"/>
+    <path d="M180 92V178" stroke="#FEF3C7" stroke-opacity="0.78" stroke-width="2" stroke-linecap="round"/>
+    <path d="M167 151L180 142L193 151" stroke="#FEF3C7" stroke-opacity="0.55" stroke-width="2" stroke-linecap="round"/>
+    <path d="M157 208C164 214 171 217 180 219C189 217 196 214 203 208" stroke="#F59E0B" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <g fill="#FBBF24" filter="url(#smallGlow)">
+    <circle cx="144" cy="184" r="2"><animate attributeName="cy" values="184;157;184" dur="3.8s" begin="0.8s" repeatCount="indefinite"/></circle>
+    <circle cx="216" cy="186" r="2"><animate attributeName="cy" values="186;151;186" dur="4.2s" begin="1.4s" repeatCount="indefinite"/></circle>
+    <circle cx="180" cy="42" r="1.5"><animate attributeName="cy" values="42;20;42" dur="3.4s" begin="1.8s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>
