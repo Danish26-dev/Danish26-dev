@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/phoenix.svg" alt="MD Danish Ali - software engineering student, AI builder, full-stack developer, and Web3 explorer" width="100%" />
+  <img src="./assets/banner.svg" alt="MD Danish Ali - software engineering student, AI builder, full-stack developer, and Web3 explorer" width="100%" />
 </div>
 
 <div align="center">
