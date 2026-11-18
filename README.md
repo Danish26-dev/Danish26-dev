@@ -1,117 +1,139 @@
-<div align="center">
-  <img src="./assets/phoenix.svg" alt="MD Danish Ali - software engineering student, AI builder, full-stack developer, and Web3 explorer" width="100%" />
-</div>
+<!-- Header wave -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1C033C,100:7C5CFF&height=210&section=header&text=Md%20Danish%20Ali&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Agentic%20AI%20%C2%B7%20Web3%20%C2%B7%20Full-Stack&descSize=20&descAlignY=58" alt="Md Danish Ali" />
+</p>
 
-<div align="center">
+<!-- Typing animation -->
+<p align="center">
+  <a href="https://github.com/Danish26-dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&height=40&lines=I+build+systems+where+AI+doesn%27t+just+answer;It+acts.;Hackathon+winner+%C2%B7+ETHGlobal+%C2%B7+COLOSSUS+%C2%B7+Athernex;Multi-agent+AI+%C2%B7+Web3+%C2%B7+Full-Stack" alt="Typing animation" />
+  </a>
+</p>
 
-**I build systems where AI doesn't just answer — it acts.**
+<!-- Phoenix animation (file: assets/phoenix.svg) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Danish26-dev/Danish26-dev/main/assets/phoenix.svg" width="480" alt="Animated phoenix rising" />
+</p>
 
-[GitHub](https://github.com/Danish26-dev) · [LinkedIn](https://www.linkedin.com/in/md-danish-ali-dev/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-danish-ali-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mddanisha288@gmail.com"><img src="https://img.shields.io/badge/Email-1C033C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Danish26-dev?tab=repositories"><img src="https://img.shields.io/badge/Repositories-7C5CFF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Danish26-dev&label=Profile%20views&color=7C5CFF&style=for-the-badge" alt="Profile views" />
+</p>
 
-</div>
+---
 
-## What I Build
+## 👋 About
 
-| Intelligent systems | Decentralized applications | Full-stack products | Automation workflows |
-| :---: | :---: | :---: | :---: |
-| Agents, tools, evidence | DID, VC, ZKP | Interfaces to APIs | Pipelines that ship |
+I'm **Md Danish Ali**, a Computer Science undergraduate at Sambhram Institute of Technology, Bengaluru. I build across **agentic AI, Web3, and full-stack systems**, and I learn by making, competing, iterating, and shipping.
 
-## About
-
-I'm **Md Danish Ali**, a software engineering student who enjoys turning ambitious ideas into working systems. I build across AI, full-stack development, automation, and Web3, usually learning by making, competing, iterating, and shipping.
-
-## 🏆 Hackathons & Achievements
-
-Public project documentation verifies these challenge contexts. Where a repository does not state a placement, I have kept the wording exact rather than turning participation into an unverified award.
-
-| Context | Project | What was built |
-| --- | --- | --- |
-| **Midnight Hackathon** · final submission documented | [IdentiPI](https://github.com/Danish26-dev/IdentiPI) | DID-based identity with Verifiable Credentials and selective-disclosure ZK proofs. |
-| **PAN IIT AI for Bharat Hackathon** · Theme 2 | [ABIL](https://github.com/Danish26-dev/-ABIL-Agent-Based-Interoperability-Layer) | Two-way interoperability between the Single Window System and department systems. |
-| **Smart Horizon 2026** · 48-hour international hackathon | [FRAB](https://github.com/Danish26-dev/FRAB-financial_crime_investigator) | A multi-agent investigation pipeline grounded in evidence and human review. |
-| **Accelerate AI with Cloud Run Challenge** · built for the challenge | [MilkyWay](https://github.com/Danish26-dev/milkywayai) | Supply-chain anomaly detection with deterministic checks and evidence-grounded AI. |
-
-## 🚀 Featured Builds
-
-### [IdentiPI](https://github.com/Danish26-dev/IdentiPI)
-Privacy-first decentralized identity using DID, Verifiable Credentials, and zero-knowledge proofs.
-
-`Midnight` `Compact` `ZKP` `Veridian` `React` `Express` `IPFS`
-
-### [PrintX](https://github.com/Danish26-dev/PrintX)
-Turns natural-language print instructions into agent planning, deterministic execution, and file cleanup.
-
-`AWS Bedrock` `Strands` `React` `Node.js` `Express` `Docker`
-
-### [MilkyWay](https://github.com/Danish26-dev/milkywayai)
-Tracks milk supply-chain events, detects unexplained discrepancies, and gives officers an evidence trail to investigate.
-
-`Gemini` `Google ADK` `MCP` `BigQuery` `Firestore` `Cloud Run`
-
-### [FRAB](https://github.com/Danish26-dev/FRAB-financial_crime_investigator)
-Moves from a suspicious banking alert to contextual evidence, regulatory reasoning, and an analyst-ready recommendation.
-
-`TypeScript` `React` `Gemma` `Firestore` `GCP Confidential VM` `Vapi`
-
-### [ABIL](https://github.com/Danish26-dev/-ABIL-Agent-Based-Interoperability-Layer)
-External middleware for schema translation, bidirectional synchronization, deterministic reconciliation, and auditability.
-
-`React` `Node.js` `Socket.IO` `MongoDB` `Strands` `AWS Bedrock`
-
-### [Artic](https://github.com/Danish26-dev/Artic-Multi-Agent-Contract-Intelligence)
-Clause-level contract intelligence that surfaces risk, simulates consequences, and drafts safer alternatives.
-
-`FastAPI` `Python` `Gemini 2.5 Flash` `MongoDB` `Twilio` `React`
-
-## 🤖 AI & Intelligent Systems
-
-### I build the system around the model.
+- 🤖 Multi-agent systems grounded in evidence and deterministic logic
+- 🔐 Privacy-first products: DIDs, Verifiable Credentials, ZKPs, TEE-backed inference
+- 🏆 Podium finishes at ETHGlobal Mumbai, COLOSSUS 3.0, and Athernex
+- 🌱 Currently exploring: 0G Private Computer, Hedera x402 payments, and agent orchestration with Google ADK
 
 ```text
 USER INTENT  ->  AI / AGENTS  ->  TOOLS  ->  DETERMINISTIC LOGIC  ->  DATA  ->  REAL-WORLD ACTION
 ```
 
-| System | The intelligence is used to... |
-| --- | --- |
-| **MilkyWay** | Retrieve scoped evidence through MCP after deterministic anomaly detection, then produce a grounded investigation brief. |
-| **FRAB** | Coordinate specialized agents for triage, evidence gathering, regulatory context, explanation, and recommendation. |
-| **PrintX** | Plan document edits and print workflows while keeping execution in deterministic tools. |
-| **Artic** | Analyze clauses, score risk across domains, simulate scenarios, and suggest negotiation language. |
-| **ABIL** | Assist with operational summaries while core synchronization and reconciliation stay policy-driven. |
-| **Eduflix** | Orchestrate topic-to-story, Manim animation, rendered video, and quiz generation through n8n. |
+---
 
-## ⛓️ Blockchain / Web3
+## 🏆 Hackathons & Achievements
 
-My Web3 work is practical exploration, not a claim of expertise. **IdentiPI** combines Veridian DID/VC flows with Midnight Compact contracts and zero-knowledge proofs so an identity claim can be verified without sharing the full document behind it.
+| Result | Event | Project | Prize |
+| :-- | :-- | :-- | :-- |
+| 🥉 **3rd Prize** | ETHGlobal Mumbai 2026, Hedera Track | [InkLink](https://github.com/Danish26-dev/InkLink-ethglobal_mumbai) | $1,500 |
+| 🥈 **2nd Runner-Up** | COLOSSUS 3.0 National Hackathon 2026, FinTech Domain | [FRAB](https://github.com/Danish26-dev/frabs_colossus3.0) | ₹15,000 |
+| 🥇 **1st Place** | Athernex Hackathon, Automaton.ai Track | [Automaton Nexus](https://github.com/GonchiJoshnaVardhanReddy/automaton-nexus) | ₹20,000 |
+| 🏅 **Finalist** | Cardano Hackathon, India Blockchain Week 2025 | [IdentiPI](https://github.com/Danish26-dev/IdentiPI) | |
+| 🚀 **Submission** | Midnight Hackathon | [IdentiPI](https://github.com/Danish26-dev/IdentiPI) | |
 
-## 🛠️ Technology
+---
 
-| Area | Tools used in my projects |
-| --- | --- |
-| **Languages** | `JavaScript` `TypeScript` `Python` |
-| **Build** | `React` `Node.js` `Express` `FastAPI` |
-| **AI** | `AWS Bedrock` `Gemini` `Google ADK` `Strands` `n8n` `MCP` |
-| **Data** | `MongoDB` `Firebase` `Supabase` `BigQuery` `Firestore` |
-| **Web3** | `Midnight` `ZKP` `DID` `Verifiable Credentials` |
-| **Cloud / delivery** | `Docker` `Google Cloud` `Cloud Run` `Vercel` |
+## 🚀 Featured Builds
 
-## 📊 GitHub Snapshot
+### [FRAB](https://github.com/Danish26-dev/frabs_colossus3.0): Fraud Response & Autonomous Backbone
+Agentic financial-security platform that proactively investigates suspicious activity using coordinated AI agents (Supervisor, Watchman, Detective, Jurist, Scribe), deterministic risk intelligence, and TEE-backed private inference on 0G Private Computer.
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Danish26-dev&theme=github_dark" height="165" alt="GitHub contribution statistics" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Danish26-dev&theme=github_dark" height="165" alt="Most used programming languages" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=Danish26-dev&hide_border=true&background=00000000&ring=0ea5e9&fire=f59e0b&currStreakLabel=0ea5e9&sideLabels=64748b&dates=64748b" alt="GitHub contribution streak" />
-</div>
+`Google ADK` `Gemini` `Gemma` `React` `FastAPI` `Firestore` `GCP Confidential VM` `0G Private Computer`
 
-## Connect
+### [InkLink](https://github.com/Danish26-dev/InkLink-ethglobal_mumbai): Decentralized Printing Network
+A decentralized, privacy-first printing network combining local AI agents, 0G Private Computer, autonomous Hedera x402 payments, and ESP32-powered physical execution, built on the principles of CROPS.
 
-**MD DANISH ALI** · Software Engineering Student · AI Builder · Full-Stack Developer · Web3 Explorer
+`Hedera x402` `0G Private Computer` `AI Agents` `ESP32`
 
-[GitHub](https://github.com/Danish26-dev) · [LinkedIn](https://www.linkedin.com/in/md-danish-ali-dev/)
+### [Automaton Nexus](https://github.com/GonchiJoshnaVardhanReddy/automaton-nexus): AI Voice Agent Platform
+Multilingual AI voice agent that automates customer order-confirmation workflows, with a low-latency decision pipeline that combines rule-based logic and AI inference.
 
-<div align="center">
+`Voice AI` `Node.js` `Modular backend` `Campaign automation`
 
-`BUILD -> EXPERIMENT -> ITERATE -> SHIP`
+### [IdentiPI](https://github.com/Danish26-dev/IdentiPI): Decentralized Identity Platform
+Privacy-first decentralized identity platform that unifies Verifiable Credentials under a single DID and enables Zero-Knowledge Proof verification without exposing sensitive personal data.
 
-</div>
+`Midnight` `Compact` `ZKP` `Veridian` `React` `Express` `IPFS`
+
+---
+
+## 🧩 More Builds
+
+| Project | What it does | Stack |
+| :-- | :-- | :-- |
+| [MilkyWay](https://github.com/Danish26-dev/milkywayai) | Tracks milk supply-chain events, detects discrepancies, and gives officers an evidence trail | `Gemini` `Google ADK` `MCP` `BigQuery` `Cloud Run` |
+| [ABIL](https://github.com/Danish26-dev/-ABIL-Agent-Based-Interoperability-Layer) | Middleware for schema translation, bidirectional sync, and reconciliation between government systems | `React` `Node.js` `Socket.IO` `MongoDB` `AWS Bedrock` |
+| [Artic](https://github.com/Danish26-dev/Artic-Multi-Agent-Contract-Intelligence) | Clause-level contract intelligence that surfaces risk and drafts safer clauses | `FastAPI` `Gemini` `MongoDB` `React` |
+| [PrintX](https://github.com/Danish26-dev/PrintX) | Natural-language print instructions to agent planning and deterministic execution | `AWS Bedrock` `Strands` `Docker` |
+| [synapse](https://github.com/Danish26-dev/synapse) | Multi-agent civic complaint resolution: duplicate detection, priority scoring, routing | `Google ADK` `Gemini` `TypeScript` |
+| [Eduflix](https://github.com/Danish26-dev/Eduflix) | Topic to story, Manim animation, rendered video, and quiz through an n8n pipeline | `n8n` `Manim` `JavaScript` |
+| [CoCoach](https://github.com/Danish26-dev/CoCoach) | Multimodal AI coaching with pose estimation, smartwatch signals, and 3D avatars | `Pose estimation` `IoT` `HTML` |
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,react,nodejs,express,fastapi,mongodb,firebase,docker,gcp,aws,git,github,figma,vercel&perline=9" alt="Tech stack icons" />
+</p>
+
+| Area | Tools |
+| :-- | :-- |
+| **AI & Agents** | `Google ADK` `Gemini` `Vertex AI` `AWS Bedrock` `Strands` `MCP` `RAG` `n8n` |
+| **Web3** | `Hedera` `x402` `Cardano` `Aiken` `Midnight` `DID` `VC` `ZKP` `0G Private Computer` |
+| **Build** | `React` `Node.js` `Express` `FastAPI` `TypeScript` `REST APIs` |
+| **Data** | `MongoDB` `Firestore` `Firebase` `BigQuery` `Supabase` |
+| **Cloud & Delivery** | `Docker` `Google Cloud` `Cloud Run` `Confidential Computing` `Vercel` |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Danish26-dev&theme=github_dark" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Danish26-dev&theme=github_dark" alt="Top languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Danish26-dev&hide_border=true&background=00000000&ring=7C5CFF&fire=F59E0B&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=64748B&currStreakNum=A78BFA&sideNums=A78BFA" alt="Contribution streak" />
+</p>
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Danish26-dev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Danish26-dev/Danish26-dev/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Danish26-dev/Danish26-dev/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Danish26-dev/Danish26-dev/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+<p align="center"><code>BUILD -> EXPERIMENT -> ITERATE -> SHIP</code></p>
+
+<!-- Footer wave -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFF,100:1C033C&height=120&section=footer" alt="" />
+</p>
+# Danish26-dev
