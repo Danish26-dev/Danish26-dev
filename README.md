@@ -79,7 +79,6 @@ Privacy-first decentralized identity platform that unifies Verifiable Credential
 
 | Project | What it does | Stack |
 | :-- | :-- | :-- |
-| [MilkyWay](https://github.com/Danish26-dev/milkywayai) | Tracks milk supply-chain events, detects discrepancies, and gives officers an evidence trail | `Gemini` `Google ADK` `MCP` `BigQuery` `Cloud Run` |
 | [ABIL](https://github.com/Danish26-dev/-ABIL-Agent-Based-Interoperability-Layer) | Middleware for schema translation, bidirectional sync, and reconciliation between government systems | `React` `Node.js` `Socket.IO` `MongoDB` `AWS Bedrock` |
 | [Artic](https://github.com/Danish26-dev/Artic-Multi-Agent-Contract-Intelligence) | Clause-level contract intelligence that surfaces risk and drafts safer clauses | `FastAPI` `Gemini` `MongoDB` `React` |
 | [PrintX](https://github.com/Danish26-dev/PrintX) | Natural-language print instructions to agent planning and deterministic execution | `AWS Bedrock` `Strands` `Docker` |
